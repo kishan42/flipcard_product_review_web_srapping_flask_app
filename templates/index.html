@@ -1,0 +1,54 @@
+{% extends 'base.html' %}
+
+{% block head %}
+    
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
+   
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+
+{% endblock %}
+
+{% block body %}
+<body class="bg-primary">      
+  <nav class=" navbar-expand-lg navbar navbar-dark bg-dark">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <a class="text-light navbar-brand" href="/">Review App</a>
+  
+    <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
+      <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+        <li class="nav-item active">
+          <a class="text-light nav-link" href="/home">Home <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="text-light nav-link" href="/images">Images</a>
+        </li>
+        <li class="nav-item">
+          <a class="text-light nav-link disabled" href="/analysis">Analysis</a>
+        </li>
+      </ul>
+      <form class="form-inline my-2 my-lg-0">
+        <button class="text-light btn btn-outline-success my-2 my-sm-0" type="submit"><a href="/logout">Logout</a></button>
+      </form>
+    </div>
+  </nav>
+
+<div class="pt-5 content">
+    <h1 style="text-align: center">Search Product</h1>
+
+    <div class=" pt-5">
+      <div class="mx-auto ">
+        <form class="form-inline" action="/review" method="POST">
+            <input type="text" class="form-control mr-sm-2" name="content" id="content">
+            <input type="submit" class="text-light btn btn-outline-success" value="Search">
+        </form>
+      </div>
+    </div>
+</div>
+</body>
+{% endblock %}
