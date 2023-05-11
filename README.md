@@ -28,3 +28,13 @@ Also, for visual aid, I am including a project video to help illustrate the func
 
 ![Screenshot 2023-05-12 012553](https://github.com/kishan42/flipcard_product_review_web_srapping_flask_app/assets/87411436/e02bb585-a212-46cd-af03-ea2eb1eca0f2)
 
+![Screenshot 2023-05-12 012619](https://github.com/kishan42/flipcard_product_review_web_srapping_flask_app/assets/87411436/84b68a99-cae3-4126-aa3f-6f54dbfa9ee3)
+![Screenshot 2023-05-12 012650](https://github.com/kishan42/flipcard_product_review_web_srapping_flask_app/assets/87411436/df049461-81c9-4970-ab68-96cb34a18f11)
+![Screenshot 2023-05-12 012713](https://github.com/kishan42/flipcard_product_review_web_srapping_flask_app/assets/87411436/8db3715b-4e2f-4a37-af9e-a519bcf02f6d)
+![Screenshot 2023-05-12 012746](https://github.com/kishan42/flipcard_product_review_web_srapping_flask_app/assets/87411436/1c18e4d3-ce83-4a7a-b958-092e10d09733)
+![Screenshot 2023-05-12 012847](https://github.com/kishan42/flipcard_product_review_web_srapping_flask_app/assets/87411436/2cc2635e-eeb2-42a0-b950-f5e1313ddc32)
+![Screenshot 2023-05-12 012912](https://github.com/kishan42/flipcard_product_review_web_srapping_flask_app/assets/87411436/ed330e93-bbdd-40be-bfc7-0c167e533971)
+![Screenshot 2023-05-12 012940](https://github.com/kishan42/flipcard_product_review_web_srapping_flask_app/assets/87411436/3f066d2e-103a-42ff-9216-c4ca32e99a4e)
+
+
+
