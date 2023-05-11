@@ -23,3 +23,8 @@ My learnings:
 . Custom error pages for when things go wrong
 
 Also, for visual aid, I am including a project video to help illustrate the functionality of the project.
+
+![Screenshot 2023-05-12 012449](https://github.com/kishan42/flipcard_product_review_web_srapping_flask_app/assets/87411436/7f29771b-78ba-40c6-a39b-4f41b1c05323)
+
+![Screenshot 2023-05-12 012553](https://github.com/kishan42/flipcard_product_review_web_srapping_flask_app/assets/87411436/e02bb585-a212-46cd-af03-ea2eb1eca0f2)
+
