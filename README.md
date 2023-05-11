@@ -7,8 +7,8 @@ What exactly does it do?
 · The project scraps the Purchased Product Reviews data available on the Flipcart website.
 · It will show top 10 review in web app.
 · It creates a separate CSV file per searched product are saved in that CSV fole, with each CSV file can be download.
-· The Images also scrap from google and its store in image dorectory.
-· Each User data and its searched history will store in SQL datbase.
+· The Images also scrap from google and its store in image directory.
+· Each User data and its searched history will store in SQL database.
 
 Tech stack: Flask Framework
 
